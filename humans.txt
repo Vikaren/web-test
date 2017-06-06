@@ -7,9 +7,11 @@
 
 # THANKS
 
-	to me
-    <name>
+<<<<<<< HEAD
+	to all
+=======
 
+    <name>
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
