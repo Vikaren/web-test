@@ -6,3 +6,7 @@ Test
 
 ### Section 3
 This is kalles text.
+
+#### Section 4
+New section
+
